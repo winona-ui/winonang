@@ -10,7 +10,7 @@ All types of contributions are encouraged and valued. Please make sure to read t
 - [For all Issues](#for-all-issues)
 - [Submitting an Issue](#submitting-an-issue)
 - ['Needs Triage' issue label](#needs-triage-issue-label)
-- [Standardization Across App Versions](#standardization-across-app-versions)
+- [Standardization Across UI Versions](#standardization-across-ui-versions)
 - [Before you start working on an Issue](#before-you-start-working-on-an-issue)
 - [Submitting a Pull Request (PR)](#submitting-a-pull-request-pr)
 - [Reviewing a Pull Request](#reviewing-a-pull-request)
