@@ -1,6 +1,6 @@
 {
   "name": "winonang",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "WinonaNG is a UI component library for Angular",
   "main": ".dist/index.js",
   "module": ".dist/index.mjs",
@@ -14,6 +14,7 @@
   },
   "keywords": [
     "angular",
+    "typescript",
     "ui",
     "component",
     "library",
