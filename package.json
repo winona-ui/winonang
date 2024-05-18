@@ -1,0 +1,30 @@
+{
+  "name": "winonang",
+  "version": "1.0.0",
+  "description": "WinonaNG is a UI component library for Angular",
+  "main": ".dist/index.js",
+  "module": ".dist/index.mjs",
+  "types": ".dist/index.d.ts",
+  "homepage": "https://github.com/winona-ui/winonang",
+  "repository": {
+    "url": "https://github.com/winona-ui/winonang"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "angular",
+    "ui",
+    "component",
+    "library",
+    "winonang",
+    "windows",
+    "design"
+  ],
+  "author": "monacodelisa",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
